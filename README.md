@@ -134,7 +134,7 @@ If you find the codes and dataset useful, please cite our paper:
 
 ```
 title = "Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval",
-Author = Daeun Lee, Jaewwong Choi, Hiroshi Mizuseki, Byungju Lee
+Author = Daeun Lee, Jaewoong Choi, Hiroshi Mizuseki, Byungju Lee
 journal = "",
 year = "2024",
 doi = ""
