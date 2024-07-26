@@ -1,9 +1,6 @@
 <h1 align="left">T2BR protocol</h1>
 <h2 align="left">Implementation of "Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval"</h3>
 
-#### Authors
-Daeun Lee, Jaewoong Choi, Hiroshi Mizuseki, Byungju Lee
-
 > Recent studies have increasingly applied natural language processing (NLP) to automatically extract experimental research data from the extensive battery materials literature. Despite the complex process involved in battery manufacturing — from material synthesis to cell assembly — there has been no comprehensive study systematically organizing this information. In response, we propose an NLP-based protocol, Text-to-Battery Recipe (T2BR), for the automatic extraction of end-to-end battery recipes, validated using a case study on batteries containing LiFePO4 cathode material. 
 
 ### Workflow of T2BR protocol
@@ -137,6 +134,7 @@ If you find the codes and dataset useful, please cite our paper:
 
 ```
 title = "Text-to-Battery Recipe: A language modeling-based protocol for automatic battery recipe extraction and retrieval",
+authors = Daeun Lee, Jaewoong Choi, Hiroshi Mizuseki, Byungju Lee
 journal = "",
 year = "2024",
 doi = ""
