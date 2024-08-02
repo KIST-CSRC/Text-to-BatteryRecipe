@@ -10,7 +10,7 @@
 
 
 ### Protocol structure and dataset
-Dataset and pre-trained models used in this study is available [here](https://drive.google.com/drive/folders/1DKiVYTl5gTwAD0vdgEFPLNe47iXjKqIo?usp=sharing), and unzip in your own directory.
+Dataset and pre-trained models used in this study is available [here](), and unzip in your own directory.
 
 > Data preparation
 - data/raw_paper.csv: the abstracts of total papers.
